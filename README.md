@@ -1,6 +1,13 @@
 # Homework-WEB-B.
 Homework 1
 
-My first changes
-
-more changes 23
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title> My FIRST PAGE </title>
+            </head>
+            <body>
+            
+            </body>
+    </html>
+ 
